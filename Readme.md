@@ -1,0 +1,1 @@
+A calendar program in C is a software application that displays the calendar for a specified month and year. It typically allows users to navigate between months, view holidays, and sometimes schedule events. 
